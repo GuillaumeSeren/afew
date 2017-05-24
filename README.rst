@@ -1,6 +1,7 @@
 afew
 ====
 .. image:: https://img.shields.io/github/tag/afewmail/afew.svg
+.. image:: https://travis-ci.org/afewmail/afew.svg?branch=master
 
 About
 -----
